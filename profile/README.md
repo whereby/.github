@@ -16,15 +16,11 @@ We provide [flexible plans](https://whereby.com/information/embedded/pricing) th
 
 ### 📚 Documentation & SDKs
 
-#### **Whereby Docs**
-
 Explore the various ways you can build, integrate, and customize the perfect video experience for your users.
 
 👉 **[Whereby Docs](https://docs.whereby.com)**
 
-#### **The Whereby Browser SDK**
-
-Our Browser SDK is designed for flexibility. Depending on your needs, you can choose between:
+Our **Browser SDK** is designed for flexibility. Depending on your needs, you can choose between:
 
 - **Web Component:** The fastest way to get a professional, pre-built video interface up and running. Ideal for speed-to-market.
 - **React Hooks:** Build a **completely custom UI** from the ground up. You handle the design, we handle the complex video infrastructure and state management.
