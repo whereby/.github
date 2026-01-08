@@ -1,3 +1,5 @@
+![Whereby logo](https://framerusercontent.com/images/byWcaCNWWZsZnXvSlFAudEUbl0.svg)
+
 # Whereby for Developers ✨
 
 Add real-time video to your application in minutes. Whereby Embedded gives you a fully-featured, pre-built video interface or a flexible SDK to build custom experiences.
