@@ -10,22 +10,24 @@ Add real-time video to your application in minutes. Whereby Embedded gives you a
 
 We provide [flexible plans](https://whereby.com/information/embedded/pricing) that grow with your application, from your first user to millions of minutes.
 
-**[Create your free account](https://whereby.com/get-started/)** (with 2,000 free minutes per month) or **[get in touch](https://whereby.com/information/embedded#contact-sales)**
+**[Create your free account](https://whereby.com/get-started/)** (with 2,000 free minutes per month) or **[get in touch](https://whereby.com/information/embedded#contact-sales)!**
 
 ---
 
 ### 📚 Documentation & SDKs
 
-Our documentation is the source of truth for your integration.
+#### **Whereby Docs**
 
-👉 **[View Official Documentation](https://docs.whereby.com)**
+Explore the various ways you can build, integrate, and customize the perfect video experience for your users.
+
+👉 **[Whereby Docs](https://docs.whereby.com)**
 
 #### **The Whereby Browser SDK**
 
 Our Browser SDK is designed for flexibility. Depending on your needs, you can choose between:
 
-- **Web Component:** The fastest way to get a professional, pre-built video interface running. Ideal for speed-to-market.
-- **React Hooks:** Build a **completely custom UI** from the ground up. You handle the design; we handle the complex video infrastructure and state management.
+- **Web Component:** The fastest way to get a professional, pre-built video interface up and running. Ideal for speed-to-market.
+- **React Hooks:** Build a **completely custom UI** from the ground up. You handle the design, we handle the complex video infrastructure and state management.
 
 | Platform    | Link                                                                    | Description                                       |
 | :---------- | :---------------------------------------------------------------------- | :------------------------------------------------ |
