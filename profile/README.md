@@ -10,10 +10,6 @@ Add real-time video to your application in minutes. Whereby Embedded gives you a
 
 We provide [flexible plans](https://whereby.com/information/embedded/pricing) that grow with your application, from your first user to millions of minutes.
 
-- **Free Plan:** 2,000 minutes per month at no cost—perfect for prototyping and side projects.
-- **Build Plan (PAYG):** A scalable Pay-As-You-Go model designed for SMBs. Only pay for what you use as you grow.
-- **Enterprise:** For larger organizations with high-volume needs, we offer **deeper volume discounts**, custom contracts, and dedicated support.
-
 **[Create your free account](https://whereby.com/get-started/)** (with 2,000 free minutes per month) or **[get in touch](https://whereby.com/information/embedded#contact-sales)**
 
 ---
