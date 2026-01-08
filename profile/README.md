@@ -1,5 +1,3 @@
-![Whereby logo](https://raw.githubusercontent.com/whereby/.github/refs/heads/main/profile/README.md&name=whereby.svg)
-
 # Whereby for Developers ✨
 
 Add real-time video to your application in minutes. Whereby Embedded gives you a fully-featured, pre-built video interface or a flexible SDK to build custom experiences.
@@ -10,21 +8,21 @@ Add real-time video to your application in minutes. Whereby Embedded gives you a
 
 ### 💰 Pricing for Every Stage
 
-We provide flexible plans that grow with your application, from your first user to millions of minutes.
+We provide [flexible plans](https://whereby.com/information/embedded/pricing) that grow with your application, from your first user to millions of minutes.
 
 - **Free Plan:** 2,000 minutes per month at no cost—perfect for prototyping and side projects.
 - **Build Plan (PAYG):** A scalable Pay-As-You-Go model designed for SMBs. Only pay for what you use as you grow.
 - **Enterprise:** For larger organizations with high-volume needs, we offer **deeper volume discounts**, custom contracts, and dedicated support.
 
-**[Create your free account](https://whereby.com/get-started/)** or **[Contact Sales for Enterprise](https://whereby.com/information/embedded#contact-sales)**
+**[Create your free account](https://whereby.com/get-started/)** (with 2,000 free minutes per month) or **[get in touch](https://whereby.com/information/embedded#contact-sales)**
 
 ---
 
 ### 📚 Documentation & SDKs
 
-Our documentation is powered by GitBook and is the source of truth for your integration.
+Our documentation is the source of truth for your integration.
 
-👉 **[View Official Documentation (docs.whereby.com)](https://docs.whereby.com)**
+👉 **[View Official Documentation](https://docs.whereby.com)**
 
 #### **The Whereby Browser SDK**
 
@@ -45,14 +43,11 @@ Our Browser SDK is designed for flexibility. Depending on your needs, you can ch
 
 ### 🔗 Stay Connected
 
-- **[Changelog](https://whereby.com/changelog):** Product updates and API improvements.
-- **[LinkedIn](https://linkedin.com/company/whereby):** Company news and remote-work culture.
+- **[Changelog](https://whereby.launchnotes.io/):** Product updates and API improvements.
+- **[LinkedIn](https://linkedin.com/company/whereby):** Company news and customer stories.
+- **[Community](https://discord.com/invite/23UTNfMRyg):** Our Whereby Embedded Discord community.
 - **[Support](https://whereby.com/help):** Technical help and integration queries.
 
 ---
 
 We’re on a [mission](https://whereby.com/information/our-vision) to give people the freedom to work and live where they thrive. 🌍
-
-@whereby.svg
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 85.7 21.9"><path fill-rule="evenodd" d="M31.5 15.2V8.7c0-1.5-.9-2.4-2.3-2.4-1.6 0-3.7 1.5-4.8 2.6V0h-.1c-.7 1-2.4 1.7-4 1.6v.2c.9.2 1.2.9 1.2 2.2v11.2c0 1-.4 1.7-1.2 2v.2h5.3v-.2c-.8-.4-1.2-1.1-1.2-2V9.4c1.2-.9 2.2-1.4 2.9-1.4.8 0 1.2.6 1.2 1.7v5.5c0 .9-.4 1.5-1.2 2v.2h5.3v-.2c-.7-.3-1.1-1-1.1-2zM16.8.8c-1.5 0-3.1 1.2-4.4 3.9l-1.7-4h-.1c-.3.6-1.1 1-1.9 1H0v.2c.7.3 1.3 1.3 1.9 2.7l5.4 13.1h.2L11 9.1l3.5 8.5h.2l3-7.5c.2-.5.3-.9.5-1.3.9-2.2 1.4-3.5 1.4-4.8 0-1.8-1-3.2-2.8-3.2zM8.7 13.1 5.2 4.5c-.6-1.4 0-2.4 1.4-2.4 1.3 0 1.9.8 2.5 2.4l1.6 3.8-2 4.8zm8.4-3.2L15.9 13l-3.3-7.8c.8-1.2 1.8-1.6 3-1.6 1.4 0 2.3 1 2.3 2.7 0 1-.2 2.2-.8 3.6zm45.6-.6c0-1.7-1.8-3-4-3-3.4 0-5.8 3-5.8 6.1 0 3.4 2.6 5.4 5.1 5.4 2.1 0 4-1.2 4.7-3.4l-.1-.1c-.7 1-1.9 1.6-3.1 1.6-1.6 0-2.9-.9-3.5-2.5 3.2-.7 6.7-1.6 6.7-4.1zm-6.9 3.4c-.1-.5-.2-1.1-.2-1.6 0-2.7 1.2-4.3 2.6-4.3 1.1 0 1.5 1 1.5 2 0 2.1-1.9 3.5-3.9 3.9zm24.1-3.5c.9-1.9 2.3-3.2 3.7-3.2 1.4 0 2.1 1.1 2.1 2.4 0 1.4-.5 2.3-1.4 4-.1.2-.3.5-.4.7L81 18.5c-1.1 2.1-2.2 3.4-3.8 3.4-1.1 0-2.2-.6-2.2-1.6 0-.9.6-1.4 1.4-1.4.7 0 1 .4 1.3.8.3.4.6.7 1.1.7.6 0 1.1-.6 1.9-2.2l.3-.5-3.7-7.7-.3-.1c-.5-1.1-.9-1.8-1.8-2v-.2c1.4 0 2.7-.6 3-1.6h.2l1.5 3.1zm2.6 5.4.9-1.8c.6-1.1.8-2.1.8-2.9 0-1.1-.6-1.8-1.7-1.8-1.2 0-2 .7-2.5 1.5l2.5 5zM67.3 8.2c.8-.9 2.3-2 3.8-2 2.1 0 4 2.1 4 5.1 0 3.3-2.4 6.3-5.9 6.3-1.4 0-2.6-.6-3.2-1.6l-1.4 1.6h-.2V4c0-1.2-.4-1.9-1.3-2.2v-.2c1.6 0 3.3-.6 4.1-1.6h.1v8.2zm0 6.8c0 1.2.7 2 1.7 2 1.8 0 3-2.2 3-5.1 0-2.6-.9-4.2-2.4-4.2-.9 0-1.7.5-2.4 1.2V15zM51.2 6.3c-1.2 0-2.4 1.2-3 2.4V6.1H48c-.7 1-2.4 1.6-4 1.6v.2c.9.3 1.3 1 1.3 2.2v5c0 1-.4 1.7-1.3 2.1v.2h5.5v-.2c-.9-.4-1.2-1.1-1.2-2.1V9.2c.3-.4.7-.8 1.1-.8.4 0 .6.2.9.4.3.2.6.5 1.2.5.7 0 1.4-.5 1.4-1.5-.1-.9-.8-1.5-1.7-1.5zM39 6.3c2.3 0 4 1.3 4 3 0 2.6-3.5 3.5-6.8 4 .6 1.6 1.9 2.5 3.5 2.5 1.2 0 2.4-.6 3.1-1.6l.1.1c-.6 2.2-2.6 3.4-4.7 3.4-2.6 0-5.1-2-5.1-5.4.2-3.1 2.5-6 5.9-6zm-3 4.8c0 .6.1 1.1.2 1.6 2-.4 3.9-1.8 3.9-4 0-1-.4-2-1.5-2-1.5.1-2.6 1.7-2.6 4.4z" clip-rule="evenodd"/></svg>
-@whereby.svg
