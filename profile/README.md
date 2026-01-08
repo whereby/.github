@@ -25,13 +25,13 @@ Our **Browser SDK** is designed for flexibility. Depending on your needs, you ca
 - **Web Component:** The fastest way to get a professional, pre-built video interface up and running. Ideal for speed-to-market.
 - **React Hooks:** Build a **completely custom UI** from the ground up. You handle the design, we handle the complex video infrastructure and state management.
 
-| Platform    | Link                                                                    | Description                                       |
-| :---------- | :---------------------------------------------------------------------- | :------------------------------------------------ |
-| **Web**     | [Browser SDK](https://github.com/whereby/whereby-browser-sdk)           | Pre-built Web Component or Custom React Hooks.    |
-| **AI**      | [Assistant SDK](https://github.com/whereby/whereby-assistant-sdk)       | **New!** Add AI-powered assistants to your calls. |
-| **Mobile**  | [React Native SDK](https://github.com/whereby/whereby-react-native-sdk) | Cross-platform video for iOS and Android.         |
-| **iOS**     | [iOS SDK](https://github.com/whereby/whereby-ios-sdk)                   | Native Swift implementation.                      |
-| **Android** | [Android SDK](https://github.com/whereby/whereby-android-sdk)           | Native Kotlin implementation.                     |
+| Platform         | Link                                                                                   | Description                                       |
+| :--------------- | :------------------------------------------------------------------------------------- | :------------------------------------------------ |
+| **Web**          | [Browser SDK](https://github.com/whereby/sdk/tree/main/packages/browser-sdk)           | Pre-built Web Component or Custom React Hooks.    |
+| **AI**           | [Assistant SDK](https://github.com/whereby/sdk/tree/main/packages/assistant-sdk)       | **New!** Add AI-powered assistants to your calls. |
+| **React Native** | [React Native SDK](https://github.com/whereby/sdk/tree/main/packages/react-native-sdk) | Cross-platform video calls on mobile.             |
+| **iOS**          | [iOS SDK](https://github.com/whereby/ios-sdk)                                          | iOS SDK for Whereby Embedded.                     |
+| **Android**      | [Android SDK](https://github.com/whereby/android-sdk)                                  | Android SDK for Whereby Embedded.                 |
 
 ---
 
