@@ -1,5 +1,3 @@
-![Whereby logo](https://github.com/whereby/.github/blob/main/images/whereby.svg)
-
 # Whereby for Developers ✨
 
 Add real-time video to your application in minutes. Whereby Embedded gives you a fully-featured, pre-built video interface or a flexible SDK to build custom experiences.
