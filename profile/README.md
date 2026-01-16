@@ -10,7 +10,7 @@ Add real-time video to your application in minutes. Whereby Embedded gives you a
 
 We provide [flexible plans](https://whereby.com/information/embedded/pricing) that grow with your application, from your first user to millions of minutes.
 
-**[Create your free account](https://whereby.com/get-started/)** (with 2,000 free minutes per month) or **[get in touch](https://whereby.com/information/embedded#contact-sales)!**
+**[Create your free account](https://whereby.com/org/signup/embedded?signupFlowPlanType=embedded_free)** (with 2,000 free minutes per month) or **[get in touch](https://whereby.com/information/embedded#contact-sales)!**
 
 ---
 
@@ -40,7 +40,6 @@ Our **Browser SDK** is designed for flexibility. Depending on your needs, you ca
 - **[Changelog](https://whereby.launchnotes.io/):** Product updates and API improvements.
 - **[LinkedIn](https://linkedin.com/company/whereby):** Company news and customer stories.
 - **[Community](https://discord.com/invite/23UTNfMRyg):** Our Whereby Embedded Discord community.
-- **[Support](https://whereby.com/help):** Technical help and integration queries.
 
 ---
 
