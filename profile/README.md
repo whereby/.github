@@ -25,21 +25,23 @@ Our **Browser SDK** is designed for flexibility. Depending on your needs, you ca
 - **Web Component:** The fastest way to get a professional, pre-built video interface up and running. Ideal for speed-to-market.
 - **React Hooks:** Build a **completely custom UI** from the ground up. You handle the design, we handle the complex video infrastructure and state management.
 
-| Platform         | Link                                                                                   | Description                                       |
-| :--------------- | :------------------------------------------------------------------------------------- | :------------------------------------------------ |
-| **Web**          | [Browser SDK](https://github.com/whereby/sdk/tree/main/packages/browser-sdk)           | Pre-built Web Component or Custom React Hooks.    |
-| **AI**           | [Assistant SDK](https://github.com/whereby/sdk/tree/main/packages/assistant-sdk)       | **New!** Add AI-powered assistants to your calls. |
-| **React Native** | [React Native SDK](https://github.com/whereby/sdk/tree/main/packages/react-native-sdk) | Cross-platform video calls on mobile.             |
-| **iOS**          | [iOS SDK](https://github.com/whereby/ios-sdk)                                          | iOS SDK for Whereby Embedded.                     |
-| **Android**      | [Android SDK](https://github.com/whereby/android-sdk)                                  | Android SDK for Whereby Embedded.                 |
+We offer the following SDKs:
 
+| Platform         | Link                                                                                     | Description                                       |
+| :--------------- | :--------------------------------------------------------------------------------------- | :------------------------------------------------ |
+| **Web (pre-built)**   | [Browser SDK](https://github.com/whereby/sdk/tree/main/packages/browser-sdk)        | Web Component with pre-built UI                   |
+| **Web (React)** | [Browser SDK](https://github.com/whereby/sdk/tree/main/packages/browser-sdk)              | Build a custom React-based UI using React Hooks   |
+| **Web (non-React)**   | [Core SDK](https://github.com/whereby/sdk/tree/main/packages/core)                  | Low-level foundation of the Whereby SDK. Build a custom non-React UI |
+| **AI**           | [Assistant SDK](https://github.com/whereby/sdk/tree/main/packages/assistant-sdk)         | Add AI-powered assistants to your calls.          |
+| **React Native** | [React Native SDK](https://github.com/whereby/sdk/tree/main/packages/react-native-sdk)   | Cross-platform video calls on mobile.             |
+| **iOS**          | [iOS SDK](https://github.com/whereby/ios-sdk)                                            | iOS SDK for Whereby Embedded.                     |
+| **Android**      | [Android SDK](https://github.com/whereby/android-sdk)                                    | Android SDK for Whereby Embedded.                 |
 ---
 
 ### 🔗 Stay Connected
 
 - **[Changelog](https://whereby.launchnotes.io/):** Product updates and API improvements.
 - **[LinkedIn](https://linkedin.com/company/whereby):** Company news and customer stories.
-- **[Community](https://discord.com/invite/23UTNfMRyg):** Our Whereby Embedded Discord community.
 
 ---
 
